@@ -1,18 +1,22 @@
-## Getting Started
+Menu:
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Verificar jogador com mais gols
+Listar jogadores de um time
+Encontrar jogador mais velho
+Comparar dois jogadores
+Criar um novo time e adicionar jogadores
+Adicionar jogador a um time existente
+Sair
+Opção 1 Jogador com mais gols: Jogador [Nome=Lionel Messi, Idade=36, Posição=Ponta Direita, Gols=936]
 
-## Folder Structure
+Opção 2 Times disponíveis: Cruzeiro Manchester City Digite o nome do time:
 
-The workspace contains two folders by default, where:
+Opção 3 Jogador mais velho: Jogador [Nome=Lionel Messi, Idade=36, Posição=Ponta Direita, Gols=936]
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Opção 4 Jogadores disponíveis: Cassio Ze Ivaldo João Marcelo Marlon William Lucas Romero Lucas Silva Matheus Pereira Juan Dinneno Barreal Lionel Messi Everton Ruben Dias Akanji Walker Ake Rodri Bernardo Silva De Bruyne Haalland Grealish Foden Digite o nome do primeiro jogador para comparação: Digite o nome do segundo jogador para comparação:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Opção 5 Digite o nome do novo Time: Digite a cidade do novo time: Deseja adicionar um jogador ao time? (sim/nao) SE SIM{ Digite o nome do jogador: Digite a idade do jogador: Digite a posição do jogador: Digite o número de gols do jogador: }
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Opção 6 Times disponíveis: Cruzeiro Manchester City (algum outro criado) Digite o nome do time ao qual deseja adicionar um jogador: Digite o nome do jogador: Digite a idade do jogador: Digite a posição do jogador: Digite o número de gols do jogador:
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Opção 7 Saindo...
